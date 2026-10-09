@@ -16,7 +16,7 @@ Insights and recommendations are provided on the following key areas:
 - **Product Performance:** Analyze product, subcategory, and category trends to identify top performers, underperforming products, and return patterns.
 - **Customer Value:** Identify high-value customers and understand their contribution to overall sales and revenue.
 
-Interactive Power BI dashboard exploring Adventure Works’ business performance and key trends [link].
+Interactive Power BI dashboard exploring Adventure Works’ business performance and key trends. [link](powerbi/Adventure-Works-Dashboard.pbix)
 
 # Data Structure & Initial Checks
 
